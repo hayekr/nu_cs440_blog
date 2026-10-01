@@ -16,8 +16,8 @@ The goal of the internet is to allow separate networks to communicate in a decen
 
 ## Critique
 
-The paper is very well written. The resarch question is clearly motivated and all necesary components are thuroughly defined. As thurough as the authors are, I think a clear overview of the *Trinocular*, *RIPE Atlas*, and *Ark* datasets could be placed in the introduction.
+The paper is very well written. The resarch question is clearly motivated and all necesary components are thuroughly defined. As thurough as the authors are, I think a clear overview of the *Trinocular*, *RIPE Atlas*, and *Ark* datasets could be placed in the introduction. Additionally, these databases are constrained on the location of the Vantage Points (VP's); if the researchers were able to place VP's between islands/peninsulas and the internet core, they could add an additional cross-validation to their argument.
 
 
 ## Connections
-I do not find that this paper relates to the invariants defined in "What Can We Actually Rely On About the Internet?". 
+I do not find that this paper relates to the invariants defined in "What Can We Actually Rely On About the Internet?". However, it can be said that two articles share the same minor methodology gap; the same underlying assumution of using VP's that one does not control could influence the measurement results.
