@@ -5,7 +5,7 @@ date: 2026-10-01
 paper_authors: "G. Baltra, T. Saluja, Y. Pradkin, J. Heidemann"
 paper_venue: "NINeS 2026"
 paper_url: "https://doi.org/10.4230/OASIcs.NINeS.2026.4"
-week: 1
+week: 2
 tags: [internet, internet-reliability, network-outages, active-measurements]
 ---
 
