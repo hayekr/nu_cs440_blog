@@ -17,3 +17,4 @@ The main limitation in the methodology of this work is the reliance on *lCCA*. T
 
 
 ## Connections
+The benefits of this are similar to the P-ECMP protocol, as these developments are mainly implemented in the framing of modern datacenter networks. Like P-ECMP, the lCCA takes advantage of programmability of protocols to optimize for datacenter networks.
