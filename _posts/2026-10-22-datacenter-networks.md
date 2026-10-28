@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Simulate Before Sending: Rethinking Transport in Datacenter Networks"
-date: 2026-10-05
+date: 2026-10-22
 paper_authors: "D. Straussman, I. Keslassy, A. Shpiner, L. Liss"
 paper_venue: "NINeS 2026"
 paper_url: "https://doi.org/10.4230/OASICS.NINES.2026.19"
