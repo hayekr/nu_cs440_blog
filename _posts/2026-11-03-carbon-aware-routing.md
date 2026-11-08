@@ -13,10 +13,7 @@ tags: [green-networking, sustainability, routing, internet-carbon-emissions]
 
 
 
-
 ## Critique
-
-
 
 
 
